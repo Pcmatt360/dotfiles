@@ -8,6 +8,7 @@ window:
 
     # Spread additional padding evenly around the terminal content
     dynamic_padding: true
+    startup_mode: Fullscreen
 
 
 font:
